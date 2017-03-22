@@ -1,0 +1,13 @@
+spring:
+  profiles.active: dev
+
+
+---
+
+spring:
+  profiles: dev
+app:
+  label: From Yaml file
+#server:
+ # port: 8080
+
